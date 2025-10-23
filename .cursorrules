@@ -33,3 +33,29 @@ When creating new markdown files, use the following template structure based on 
 - Follow the structured format above for consistency
 - Focus on problem definition, challenges, risks, and goals
 - Keep content concise and actionable
+
+## Content Focus Requirements
+
+### Business Value Focus
+- **Always frame problems from a business value perspective, not user experience**
+- Focus on business impact: revenue loss, competitive disadvantage, operational inefficiency
+- Emphasize decision-making capabilities and business outcomes
+- Avoid technical implementation details in problem statements
+
+### Challenge Writing Guidelines
+- Frame challenges as business limitations that prevent optimal outcomes
+- Focus on what stakeholders cannot achieve rather than what systems cannot do
+- Include specific business consequences (delays, missed opportunities, resource drain)
+- Examples: "Query Representation Gap", "Decision Delays", "Engineering Dependency", "Missed Business Opportunities"
+
+### Risk Writing Guidelines
+- Emphasize direct business impact: revenue, competitive position, operational costs
+- Include specific consequences like "Engineering Resource Drain" for technical dependencies
+- Focus on what happens if the problem isn't solved, not just what the problem is
+- Use business language: "Revenue Loss", "Competitive Disadvantage", "Operational Inefficiency"
+
+### Goal Writing Guidelines
+- Focus on enabling business stakeholders to achieve business outcomes
+- Emphasize decision-making capabilities and business value
+- Avoid technical solution descriptions (no AI, automation, or implementation details)
+- Focus on what business users can accomplish, not how they accomplish it
