@@ -1,0 +1,35 @@
+# Cursor Rules for Opportunities Repository
+
+## File Templates
+
+### Markdown Files
+When creating new markdown files, use the following template structure based on `ai/voice/evaluation/actions.md`:
+
+```markdown
+# [Title]
+
+## Problem Statement
+[Describe the problem or opportunity being addressed]
+
+## Challenges
+
+1. **[Challenge 1]:** [Description of the challenge]
+1. **[Challenge 2]:** [Description of the challenge]
+
+## Risks of Not Solving This
+
+- [Risk 1]
+- [Risk 2]
+- [Risk 3]
+
+## Goal
+
+[Describe the desired outcome or solution]
+```
+
+## Project Guidelines
+
+- Use clear, descriptive titles for all markdown files
+- Follow the structured format above for consistency
+- Focus on problem definition, challenges, risks, and goals
+- Keep content concise and actionable
